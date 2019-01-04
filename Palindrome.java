@@ -1,7 +1,7 @@
 /*Check wheather a number is palindrome*/
 class Palindrome{
     public static void main(String[]args){
-        int num =121;
+        int num =1212;
         int temp=num;
         int rev=0,rem;
         while(temp!=10){
